@@ -53,7 +53,7 @@
 	
   <h1>
     <p align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/IR-O/IRO_ROBOT">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/legendaditya03/IRO-Advance">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
 </h1>
@@ -72,7 +72,7 @@
 	
   <h1>
     <p align="center">
-        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/IR-O/IRO_ROBOT">
+        <a href="https://cloud.okteto.com/deploy?repository=https://github.com/legendaditya03/IRO-Advance">
             <img src="https://img.shields.io/badge/Deploy%20On%20Okteto-informational?style=for-the-badge&logo=Okteto" alt="Deploy">
         </a>
 </h1>
