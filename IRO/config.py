@@ -49,7 +49,7 @@ class Config(object):
     INFOPIC = True
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
-    SPAMWATCH_SUPPORT_CHAT = "@iro_x_support"
+    SPAMWATCH_SUPPORT_CHAT = "@pusu_world"
 
 
     # OPTIONAL
@@ -67,7 +67,7 @@ class Config(object):
     PORT = 5000
     DEL_CMDS = True  # Delete commands that users dont have access to, like delete /ban if a non admin uses it.
     STRICT_GBAN = True
-    REM_BG_API_KEY = "XHPmZZztSksyF5rqc2CRBvMa"
+    REM_BG_API_KEY = "BpFP7okACX7S4rFVywGqiRHH"
     WORKERS = (
         8  # Number of subthreads to use. Set as number of threads your processor uses
     )
